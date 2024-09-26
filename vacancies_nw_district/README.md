@@ -43,7 +43,12 @@
 * Профессиональные навыки
 * Гибкие навыки
 
-
 ## Используемые библиотеки
 
 pandas, numpy, matplotlib, seaborn, datetime, scipy.stats
+
+## Визуализация 
+
+Yandex DataLens
+
+<img width="1351" alt="Screenshot 2024-09-27 at 12 53 40 AM" src="https://github.com/user-attachments/assets/4667f9f8-125d-4d7e-8559-aea415a2479d">
