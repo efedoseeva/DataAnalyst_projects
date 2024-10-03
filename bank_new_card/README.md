@@ -27,4 +27,4 @@
 
 ## Используемые библиотеки
 
-pandas, numpy, matplotlib, seaborn, datetime, scipy.stats, sklearn, sklearn.metrics
+pandas, numpy, matplotlib, seaborn, datetime, scipy, sklearn
